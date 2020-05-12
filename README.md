@@ -1,1 +1,1 @@
-# project-letterguessing
+# Letter Guessing
